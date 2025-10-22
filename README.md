@@ -155,7 +155,7 @@ This report documents the full **system design and UML modelling** for the **Wor
 - **User Stories** and **Acceptance Criteria**  
 - **Unit Testing Scenarios** linked to project source code  
 
-📄 [**View Full Report (PDF)**](./docs/Workforce-CLI-System-Modelling-Report.pdf)
+📄 [**View Full Report (PDF)**](./docs/Workforce_CLI_System_Modelling_Report.pdf)
 
 
 ---
