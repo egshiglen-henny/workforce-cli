@@ -92,6 +92,45 @@ java -cp bin workforce.DreamCompanyApp
 
 ---
 
+## 📸 Screenshots/View of the CLI
+
+### 🏠 Main Menu
+![Main Menu](docs/screenshot-menu.png)
+
+### ✍️ Add Employee
+#### Add a New Employee
+![Add New Employee](docs/screenshot-add-new-employee.png)
+#### Add Random Employees
+![Add Random Employee](docs/screenshot-add-random-employee.png)
+
+### 🔍 Search Employee
+#### Search By Fullname
+![Search by Full Name](docs/screenshot-searchbyfullname.png)
+#### Search By Multiple Names
+![Search Multiple Names](docs/screenshot-searchbymultiplenames.png)
+#### Search By Role
+![Search by Role](docs/screenshot-searchbyrole.png)
+
+### 📋 Sorted Employee Lists
+#### Sort By Name
+![Sort by Name](docs/screenshot-sortbyname.png)
+#### Sort By Salary
+![Sort by Salary](docs/screenshot-sortbysalary.png)
+#### Sort By Department
+![Sort by Department](docs/screenshot-sortbydepartment.png)
+
+### ⚠️ Validation & Behavior
+#### Validation
+![Validation Messages](docs/screenshot-validations.png)
+#### Report & Behavior
+![Report Behavior](docs/screenshot-report-behavior.png)
+
+### 🧾 Display All
+![Display All Employees](docs/screenshot-display.png)
+
+
+---
+
 ## 🏆 Future Improvements
 
 - Add data filtering by department or role
