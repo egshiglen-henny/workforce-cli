@@ -140,6 +140,26 @@ java -cp bin workforce.DreamCompanyApp
 
 ---
 
+## 🧩 System Modelling & Build Report
+
+![UML](https://img.shields.io/badge/Modeling-UML-blue)
+![Report](https://img.shields.io/badge/Type-Academic-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+This report documents the full **system design and UML modelling** for the **Workforce CLI Java Application** (Dream Tech System).
+
+### 📘 Contents
+- System Overview & Boundary Diagram  
+- Five detailed **Use Case Narratives & Diagrams**  
+- **UML Class Diagram** and **Sequence Diagrams**  
+- **User Stories** and **Acceptance Criteria**  
+- **Unit Testing Scenarios** linked to project source code  
+
+📄 [**View Full Report (PDF)**](./docs/Workforce-CLI-System-Modelling-Report.pdf)
+
+
+---
+
 ## 👩‍💻 Author
 **Egshiglen Enkhbayar**  
 📍 Dublin, Ireland  
