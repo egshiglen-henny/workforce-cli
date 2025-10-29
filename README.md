@@ -163,4 +163,4 @@ This report documents the full **system design and UML modelling** for the **Wor
 ## 👩‍💻 Author
 **Egshiglen Enkhbayar**  
 📍 Dublin, Ireland  
-🔗 [GitHub](https://github.com/egshiglen-henny) | [LinkedIn](https://linkedin.com/in/egshiglen)
+🔗 [GitHub](https://github.com/egshiglen-henny) | [LinkedIn](https://linkedin.com/in/egshiglene)
